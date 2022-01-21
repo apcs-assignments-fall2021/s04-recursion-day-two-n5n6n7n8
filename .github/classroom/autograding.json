@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "testCountBigDigits",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCountBigDigits",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testMoreEvenThanOdd",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testMoreEvenThanOdd",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testIsPalindrome",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testIsPalindrome",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testAddDigits",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testAddDigits",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testParenTrim",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testParenTrim",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "testReverse",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testReverse",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
